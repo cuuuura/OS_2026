@@ -19,4 +19,4 @@ make
 
 ## Запуск
 
-./parent
+./main
